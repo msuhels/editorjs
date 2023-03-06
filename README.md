@@ -1,6 +1,5 @@
 # Filament EditorJs
 
-![Filament EditorJs](art/banner.png)
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/rahmanramsi/filament-editorjs.svg?style=flat-square)](https://packagist.org/packages/rahmanramsi/filament-editorjs)
 [![Total Downloads](https://img.shields.io/packagist/dt/rahmanramsi/filament-editorjs.svg?style=flat-square)](https://packagist.org/packages/rahmanramsi/filament-editorjs)
 
