@@ -1,10 +1,10 @@
 {
-    "name": "rahmanramsi/filament-editorjs",
+    "name": "msuhels/editorjs",
     "description": "Next generation block styled editor.",
     "keywords": [
-        "rahmanramsi",
+        "msuhels",
         "laravel",
-        "filament-editorjs"
+        "editorjs"
     ],
     "license": "MIT",
     "require": {
