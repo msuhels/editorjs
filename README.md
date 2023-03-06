@@ -17,7 +17,7 @@ composer require msuhels/editorjs:dev-master
 ## Usage
 
 ```php
-use FilamentEditorJs\Forms\Components\EditorJs;
+use msuhels\editorjs\Forms\Components\EditorJs;
 
 EditorJs::make('content')
 
@@ -45,13 +45,7 @@ By default all tools are enabled. This is a list of available tools:
 ]
 ```
 
-You can disable any of them using by passing an array of tool names:
-
-```php
-EditorJs::make('content')->disableTools(['image', 'raw']);
-```
-
-Also you can enable only certain tools:
+ you can enable only certain tools:
 
 ```php
 EditorJs::make('content')->tools(['image', 'raw']);
